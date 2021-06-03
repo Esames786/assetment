@@ -1,0 +1,19 @@
+http://localhost:8080/poineer/bcit-ci-CodeIgniter-b73eb19/index.php/api/login 
+
+email : mohsin@gmail.com
+password : 12345
+
+
+http://localhost:8080/poineer/bcit-ci-CodeIgniter-b73eb19/index.php/api/register
+
+name: testing
+email : testing@gmail.com
+password : 12345
+
+
+http://localhost:8080/poineer/bcit-ci-CodeIgniter-b73eb19/index.php/api/profile
+
+
+STEP-1 POST LOGIN API AND {{COPY TOKEN TEXT}}
+STEP-2 email : mohsin@gmail.com
+       token : {{PASTE TOKEN TEXT}}
